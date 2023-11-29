@@ -1,0 +1,28 @@
+# .gitignore for LaTeX project
+*
+!.gitignore
+!.gitmodules
+!.gitkeep
+
+# Makefile
+!Makefile
+
+# LaTeX
+!*.tex
+!*.cls
+!.latexmkrc
+
+# Bibliography
+!autobib
+!biblio
+!biblio/**/
+!biblio/**/*.bib
+
+# Figure
+!figures
+!figures/**/
+!figures/**/*.pdf
+
+# Text
+!text
+!text/**/

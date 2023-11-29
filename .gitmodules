@@ -1,0 +1,4 @@
+[submodule "autobib"]
+	path = autobib
+	url = git@github.com:hurryman2212/autobib.git
+	branch = main
